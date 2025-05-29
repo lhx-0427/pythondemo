@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="基础变量和简单类型转换">
-      <change afterPath="$PROJECT_DIR$/demo0528/demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo0528/demo3.py" afterDir="false" />
+    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="分支结构 循环结构">
+      <change afterPath="$PROJECT_DIR$/demo0528/demo4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +39,7 @@
     "Python.demo1.executor": "Run",
     "Python.demo2.executor": "Run",
     "Python.demo3.executor": "Run",
+    "Python.demo4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
@@ -85,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748416156763</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="分支结构 循环结构">
+      <option name="closed" value="true" />
+      <created>1748421231005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748421231005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -94,6 +102,7 @@
     </ignored-roots>
     <MESSAGE value="第一天测试提交" />
     <MESSAGE value="基础变量和简单类型转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础变量和简单类型转换" />
+    <MESSAGE value="分支结构 循环结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支结构 循环结构" />
   </component>
 </project>
