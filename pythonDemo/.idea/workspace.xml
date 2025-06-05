@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="元组和列表的区别和互相转换">
-      <change afterPath="$PROJECT_DIR$/demo0529/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo0529/demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo0529/demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo0529/demo3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
