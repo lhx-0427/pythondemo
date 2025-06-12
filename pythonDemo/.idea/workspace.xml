@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="元组和列表的区别和互相转换">
+    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="2天">
+      <change afterPath="$PROJECT_DIR$/demo0605/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo0605/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo0612/pokergame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.demo1.executor": "Run",
+    "Python.demo2.executor": "Run",
+    "Python.demo3.executor": "Run",
+    "Python.demo4.executor": "Run",
+    "Python.pokergame.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748498817046</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2天">
+      <option name="closed" value="true" />
+      <created>1749091743618</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749091743618</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +123,7 @@
     <MESSAGE value="基础变量和简单类型转换" />
     <MESSAGE value="分支结构 循环结构" />
     <MESSAGE value="元组和列表的区别和互相转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="元组和列表的区别和互相转换" />
+    <MESSAGE value="2天" />
+    <option name="LAST_COMMIT_MESSAGE" value="2天" />
   </component>
 </project>
