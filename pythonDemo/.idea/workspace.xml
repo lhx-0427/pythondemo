@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="2天">
-      <change afterPath="$PROJECT_DIR$/demo0605/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo0605/demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo0612/pokergame.py" afterDir="false" />
+    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="扑克函数调用小案例">
+      <change afterPath="$PROJECT_DIR$/demo0612/normalKU.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,7 @@
     "Python.demo2.executor": "Run",
     "Python.demo3.executor": "Run",
     "Python.demo4.executor": "Run",
+    "Python.normalKU.executor": "Run",
     "Python.pokergame.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -112,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749091743618</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="扑克函数调用小案例">
+      <option name="closed" value="true" />
+      <created>1749709371966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749709371966</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +131,7 @@
     <MESSAGE value="分支结构 循环结构" />
     <MESSAGE value="元组和列表的区别和互相转换" />
     <MESSAGE value="2天" />
-    <option name="LAST_COMMIT_MESSAGE" value="2天" />
+    <MESSAGE value="扑克函数调用小案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="扑克函数调用小案例" />
   </component>
 </project>
