@@ -6,7 +6,7 @@ import heapq
 list1 = [34, 25, 12, 99, 87, 63, 58, 78, 88, 92]
 # 找出列表中最大的三个元素
 print(heapq.nlargest(3, list1))
-# 找出列表中最小的三个元素
+# 找出列表中最小的三个元素 111
 print(heapq.nsmallest(3, list1))
 
 list2 = [
