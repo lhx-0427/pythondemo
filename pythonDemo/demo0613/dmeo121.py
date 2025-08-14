@@ -23,7 +23,7 @@
 #         print('clean')
 #     case _:
 #         print('invalid command.')
-# L = ['Bart', 'Lisa', 'Adam']1
+# L = ['Bart', 'Lisa', 'Adam']
 # for i in L:
 #     print('Hello,', i)
 dict1={'name':'Bart','age':7,'sex':'male'}

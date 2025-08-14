@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="测试能否正常提交">
-      <change afterPath="$PROJECT_DIR$/demo0613/dmeo121.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="集合循环小测试学习">
+      <change beforePath="$PROJECT_DIR$/demo0613/dmeo121.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo0613/dmeo121.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +172,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755065600635</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="集合循环小测试学习">
+      <option name="closed" value="true" />
+      <created>1755164069317</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755164069317</updated>
+    </task>
+    <task id="LOCAL-00012" summary="集合循环小测试学习">
+      <option name="closed" value="true" />
+      <created>1755164088040</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755164088040</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,7 +202,8 @@
     <MESSAGE value="2天" />
     <MESSAGE value="扑克函数调用小案例" />
     <MESSAGE value="测试能否正常提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试能否正常提交" />
+    <MESSAGE value="集合循环小测试学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="集合循环小测试学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
