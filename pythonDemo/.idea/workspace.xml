@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="函数的有关参数">
-      <change afterPath="$PROJECT_DIR$/demo0815/slice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="高级特性  切片 迭代 列表生成式" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +250,47 @@
       <option name="project" value="LOCAL" />
       <updated>1755242362583</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="高级特性  切片 迭代 列表生成式">
+      <option name="closed" value="true" />
+      <created>1755250978017</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1755250978017</updated>
+    </task>
+    <task id="LOCAL-00016" summary="高级特性  切片 迭代 列表生成式">
+      <option name="closed" value="true" />
+      <created>1755251000884</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1755251000884</updated>
+    </task>
+    <task id="LOCAL-00017" summary="高级特性  切片 迭代 列表生成式">
+      <option name="closed" value="true" />
+      <created>1755251014595</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1755251014595</updated>
+    </task>
+    <task id="LOCAL-00018" summary="高级特性  切片 迭代 列表生成式">
+      <option name="closed" value="true" />
+      <created>1755251060082</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1755251060082</updated>
+    </task>
+    <task id="LOCAL-00019" summary="高级特性  切片 迭代 列表生成式">
+      <option name="closed" value="true" />
+      <created>1755251091060</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755251091060</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -269,7 +306,8 @@
     <MESSAGE value="测试能否正常提交" />
     <MESSAGE value="集合循环小测试学习" />
     <MESSAGE value="函数的有关参数" />
-    <option name="LAST_COMMIT_MESSAGE" value="函数的有关参数" />
+    <MESSAGE value="高级特性  切片 迭代 列表生成式" />
+    <option name="LAST_COMMIT_MESSAGE" value="高级特性  切片 迭代 列表生成式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
