@@ -22,7 +22,7 @@
 # elif trim('') != '':
 #     print('测试失败!')
 # elif trim('    ') != '':
-#     print('测试失败!')
+#     print('测试失败!')1
 # else:
 #     print('测试成功!')
 #迭代
