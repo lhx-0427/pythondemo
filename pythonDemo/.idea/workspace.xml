@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="类和实例1" />
+    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="类和实例1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -371,7 +373,55 @@
       <option name="project" value="LOCAL" />
       <updated>1758697252913</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="类和实例1">
+      <option name="closed" value="true" />
+      <created>1758697285234</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1758697285234</updated>
+    </task>
+    <task id="LOCAL-00028" summary="类和实例1">
+      <option name="closed" value="true" />
+      <created>1758697293933</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1758697293933</updated>
+    </task>
+    <task id="LOCAL-00029" summary="类和实例1">
+      <option name="closed" value="true" />
+      <created>1758697350854</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1758697350854</updated>
+    </task>
+    <task id="LOCAL-00030" summary="类和实例1">
+      <option name="closed" value="true" />
+      <created>1758697388309</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1758697388309</updated>
+    </task>
+    <task id="LOCAL-00031" summary="类和实例1">
+      <option name="closed" value="true" />
+      <created>1758697522559</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1758697522559</updated>
+    </task>
+    <task id="LOCAL-00032" summary="类和实例1">
+      <option name="closed" value="true" />
+      <created>1758698257318</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1758698257318</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
