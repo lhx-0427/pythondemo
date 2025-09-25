@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="类和实例1">
+    <list default="true" id="9207007c-e73e-4ac9-a418-a116bde5e79c" name="Changes" comment="类和实例">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,24 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.__init__ (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dmeo121.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.normalKU.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pokergame.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.slice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/pythondemo/pythonDemo&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.__init__ (1).executor": "Debug",
+    "Python.__init__.executor": "Run",
+    "Python.demo1.executor": "Run",
+    "Python.demo2.executor": "Run",
+    "Python.demo3.executor": "Run",
+    "Python.demo4.executor": "Run",
+    "Python.dmeo121.executor": "Debug",
+    "Python.normalKU.executor": "Run",
+    "Python.pokergame.executor": "Debug",
+    "Python.slice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/pythondemo",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.__init__ (1)">
     <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDemo" />
@@ -421,7 +421,47 @@
       <option name="project" value="LOCAL" />
       <updated>1758698257318</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="类和实例1">
+      <option name="closed" value="true" />
+      <created>1758705611533</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1758705611533</updated>
+    </task>
+    <task id="LOCAL-00034" summary="类和实例1">
+      <option name="closed" value="true" />
+      <created>1758705623037</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1758705623037</updated>
+    </task>
+    <task id="LOCAL-00035" summary="类和实例">
+      <option name="closed" value="true" />
+      <created>1758705788516</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1758705788516</updated>
+    </task>
+    <task id="LOCAL-00036" summary="类和实例">
+      <option name="closed" value="true" />
+      <created>1758782877362</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1758782877362</updated>
+    </task>
+    <task id="LOCAL-00037" summary="类和实例">
+      <option name="closed" value="true" />
+      <created>1758782890092</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1758782890092</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -449,9 +489,9 @@
     <MESSAGE value="集合循环小测试学习" />
     <MESSAGE value="函数的有关参数" />
     <MESSAGE value="高级特性  切片 迭代 列表生成式" />
-    <MESSAGE value="类和实例" />
     <MESSAGE value="类和实例1" />
-    <option name="LAST_COMMIT_MESSAGE" value="类和实例1" />
+    <MESSAGE value="类和实例" />
+    <option name="LAST_COMMIT_MESSAGE" value="类和实例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
